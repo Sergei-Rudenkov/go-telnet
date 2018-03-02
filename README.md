@@ -138,8 +138,6 @@ import (
 	"github.com/reiver/go-oi"
 	"github.com/reiver/go-telnet"
 	"github.com/reiver/go-telnet/telsh"
-
-	"fmt"
 	"io"
 	"time"
 )
